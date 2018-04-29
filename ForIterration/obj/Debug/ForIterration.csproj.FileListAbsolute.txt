@@ -1,0 +1,7 @@
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\ForIterration\bin\Debug\ForIterration.exe.config
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\ForIterration\bin\Debug\ForIterration.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\ForIterration\bin\Debug\ForIterration.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\ForIterration\obj\Debug\ForIterration.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\ForIterration\obj\Debug\ForIterration.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\ForIterration\obj\Debug\ForIterration.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\ForIterration\obj\Debug\ForIterration.pdb

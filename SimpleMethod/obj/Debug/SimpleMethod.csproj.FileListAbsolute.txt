@@ -1,0 +1,6 @@
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\SimpleMethod\bin\Debug\SimpleMethod.exe.config
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\SimpleMethod\bin\Debug\SimpleMethod.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\SimpleMethod\bin\Debug\SimpleMethod.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\SimpleMethod\obj\Debug\SimpleMethod.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\SimpleMethod\obj\Debug\SimpleMethod.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\SimpleMethod\obj\Debug\SimpleMethod.pdb

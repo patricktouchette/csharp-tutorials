@@ -1,0 +1,6 @@
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\Arrays\bin\Debug\Arrays.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\Arrays\obj\Debug\Arrays.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\Arrays\obj\Debug\Arrays.pdb

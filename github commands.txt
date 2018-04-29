@@ -1,0 +1,20 @@
+### initial repo setup
+Create a github repo and delete readme files, etc.
+
+git init
+git remote add origin [url]
+git pull origin master
+-or-
+git clone [url]
+
+
+git add .
+git commit -m "First Commit"
+git push origin master
+
+### TO commit changes
+
+git status
+git add *
+git commit -m "update"
+git push origin master
