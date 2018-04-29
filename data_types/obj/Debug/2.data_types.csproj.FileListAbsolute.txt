@@ -1,0 +1,7 @@
+c:\users\pat\source\repos\2.data_types\obj\Debug\2.data_types.csprojResolveAssemblyReference.cache
+c:\users\pat\source\repos\2.data_types\obj\Debug\2.data_types.csproj.CoreCompileInputs.cache
+c:\users\pat\source\repos\2.data_types\bin\Debug\2.data_types.exe.config
+c:\users\pat\source\repos\2.data_types\bin\Debug\2.data_types.exe
+c:\users\pat\source\repos\2.data_types\bin\Debug\2.data_types.pdb
+c:\users\pat\source\repos\2.data_types\obj\Debug\2.data_types.exe
+c:\users\pat\source\repos\2.data_types\obj\Debug\2.data_types.pdb
