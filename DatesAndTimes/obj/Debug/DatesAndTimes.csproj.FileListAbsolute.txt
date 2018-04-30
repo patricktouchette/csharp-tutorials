@@ -1,0 +1,6 @@
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\DatesAndTimes\bin\Debug\DatesAndTimes.exe.config
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\DatesAndTimes\bin\Debug\DatesAndTimes.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\DatesAndTimes\bin\Debug\DatesAndTimes.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\DatesAndTimes\obj\Debug\DatesAndTimes.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\DatesAndTimes\obj\Debug\DatesAndTimes.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\DatesAndTimes\obj\Debug\DatesAndTimes.pdb

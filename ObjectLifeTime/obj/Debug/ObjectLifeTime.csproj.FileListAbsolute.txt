@@ -1,0 +1,6 @@
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\ObjectLifeTime\bin\Debug\ObjectLifeTime.exe.config
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\ObjectLifeTime\bin\Debug\ObjectLifeTime.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\ObjectLifeTime\bin\Debug\ObjectLifeTime.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\ObjectLifeTime\obj\Debug\ObjectLifeTime.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\ObjectLifeTime\obj\Debug\ObjectLifeTime.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\ObjectLifeTime\obj\Debug\ObjectLifeTime.pdb

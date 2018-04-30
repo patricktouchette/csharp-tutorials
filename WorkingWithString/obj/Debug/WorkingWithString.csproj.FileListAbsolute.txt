@@ -1,0 +1,7 @@
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\WorkingWithString\bin\Debug\WorkingWithString.exe.config
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\WorkingWithString\bin\Debug\WorkingWithString.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\WorkingWithString\bin\Debug\WorkingWithString.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\WorkingWithString\obj\Debug\WorkingWithString.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\WorkingWithString\obj\Debug\WorkingWithString.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\WorkingWithString\obj\Debug\WorkingWithString.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\WorkingWithString\obj\Debug\WorkingWithString.pdb
