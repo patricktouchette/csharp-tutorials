@@ -1,0 +1,7 @@
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\MyCodeLibraryScrapeWebpage\obj\Release\MyCodeLibraryScrapeWebpage.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\MyCodeLibraryScrapeWebpage\bin\Release\MyCodeLibraryScrapeWebpage.exe.config
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\MyCodeLibraryScrapeWebpage\bin\Release\MyCodeLibraryScrapeWebpage.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\MyCodeLibraryScrapeWebpage\bin\Release\MyCodeLibraryScrapeWebpage.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\MyCodeLibraryScrapeWebpage\obj\Release\MyCodeLibraryScrapeWebpage.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\MyCodeLibraryScrapeWebpage\obj\Release\MyCodeLibraryScrapeWebpage.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\MyCodeLibraryScrapeWebpage\obj\Release\MyCodeLibraryScrapeWebpage.csprojResolveAssemblyReference.cache

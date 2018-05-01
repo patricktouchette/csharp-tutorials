@@ -1,0 +1,153 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+		<link href="css/main.css" rel="stylesheet" type"text/css">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta http-equiv="Content-Language" content="en">
+        <link rel="stylesheet" src="//normalize-css.googlecode.com/svn/trunk/normalize.css">
+	</head>
+	<body>
+		<div class="grid">
+			<div class="row">
+				<div class="col-12">
+					<img src="img/background.jpg" class="responsive_image">
+					<!-- <img img src="img/udacity-logo.jpg" class="top-left"> -->
+					<div class="top-right"><h1><p>Patrick Touchette</p></h1>
+										   <h3><p>Software Developer</p></h3>
+										   <a href="img/CV Patrick Touchette.pdf" class="button" download>Download my CV</a>
+									   	   </div>
+					<div class="bottom-left"><h2><p>Python</p>
+												 <p>Grahpical User Interfaces</p>
+												 <p>Web Scraping</p>
+												 <p>Data Analysis and Visualisation</p>
+											 </h2></div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-12">
+					<h1>Featured Work</h1>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-0"></div>
+				<div class="col-3">
+					<a href="https://github.com/patricktouchette/ERP-prototype" target="_blank">
+					    <img src="img/erp-prototype.png" class="responsive_image">
+					</a>
+					<h3>ERP Prototype</h3>
+					<p><a href="https://github.com/patricktouchette/ERP-prototype" target="_blank">Project on Github</a></p>
+					<p>This is a simple ERP (Enterprise resource planning) software prototype, built in python and Tkinter. Reportlab is also used to create reports and matplotlib is used to create charts.</p>
+				</div>
+				<div class="col-1"></div>
+				<div class="col-3">
+					<a href="https://github.com/patricktouchette/interlinear-text-creator" target="_blank">
+						<img src="img/interlinear-text3.png" class="responsive_image">
+					</a>
+					<h3>Interlinear Text Creator</h3>
+					<p><a href="https://github.com/patricktouchette/interlinear-text-creator" target="_blank">Project on Github</a></p>
+					<p>Creates an interlinear book from a Russian text. The English translation is displayed above the Russian word in HTML ruby notation. Uses python 3.6</p>
+				</div>
+				<div class="col-1"></div>
+				<div class="col-3">
+					<a href="https://github.com/patricktouchette/web-scraping" target="_blank">
+						<img src="img/pokedex-scraper.png" class="responsive_image">
+					</a>
+					<h3>Web Scraping</h3>
+					<p><a href="https://github.com/patricktouchette/web-scraping" target="_blank">Project on Github</a></p>
+					<p>Here are a few webscraping projects, where I gathered data from websites such as duproprio.com and pokemondb.net </p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-12">
+					<h1>Education</h1>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-0"></div>
+				<div class="col-3">
+					<img src="img/udacity-logo.png" class="responsive_image_max_height">
+					<img src="img/udemy-logo.png" class="responsive_image_max_height">
+					<img src="img/youtube-logo.jpg" class="responsive_image_max_height">
+					<img src="img/stack-overflow-logo.png" class="responsive_image_max_height">
+					<h3>Self taught on the web</h3>
+					<p>Courses, tutorials, blog posts, etc...</p>
+				</div>
+				<div class="col-1"></div>
+				<div class="col-3">
+					<img src="img/ETS-logo.jpg" class="responsive_image">
+					<h3>Mechanical Engineering, B. Ing.</h3>
+					<p></p>
+				</div>
+				<div class="col-1"></div>
+				<div class="col-3">
+					<img src="img/ena-logo.jpg" class="responsive_image">
+					<h3>Aerospace Construction, D.E.C.</h3>
+					<p></p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-12">
+					<h1>Work Experience</h1>
+				</div>
+			</div>
+			<div class="row">
+				<div class="row">
+					<div class="col-0"></div>
+					<div class="col-2">
+                        <p>Current work place</p>
+						<img src="img/a7integration-logo.png" class="responsive_image_max_width">
+
+					</div>
+					<div class="col-2">
+                        <p>&nbsp;</p>
+						<img src="img/GE-Aviation-logo.png" class="responsive_image_max_width">
+					</div>
+					<div class="col-2">
+                        <br></br>
+                        <br></br>
+						<img src="img/heroux-devtek-logo.png" class="responsive_image_max_width">
+					</div>
+				</row>
+				<div class="row">
+					<div class="col-0"></div>
+					<div class="col-2">
+						<img src="img/mtu-logo.png" class="responsive_image_max_width">
+					</div>
+					<div class="col-2">
+						<img src="img/pratt-whitney-logo.png" class="responsive_image_max_width">
+					</div>
+					<div class="col-2">
+						<img src="img/dassault-logo.jpg" class="responsive_image_max_width">
+					</div>
+				</row>
+			</div>
+
+			<div class="row">
+				<div class="col-12">
+					<h1>About Me</h1>
+                    <p> Passionate about code, I do it as a hobby which I hope to turn into a full time job.</p>
+                    <p> I enjoy making projects come to life and seeing results.</p>
+					<p> I love learning new things. When I am not working on a project, I am taking online classes to better my skills.</p>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-12">
+					<h1>My self taught journey so far ...</h1>
+                    <p> Automate the boring stuff with Python programming
+						<a href="https://www.udemy.com/certificate/UC-8P0XFHDY/" target="_blank">Link to my certificate of completion</a> </p>
+                    <p> Python Mega Course- Build 10 Real World Applications
+						<a href="https://www.udemy.com/certificate/UC-OMTQ3PME/" target="_blank">Link to my certificate of completion</a> </p>
+                    <p> The Ultimate MySQL Bootcamp - Go from SQL Beginner to Expert
+						<a href="https://www.udemy.com/certificate/UC-SPQZ2JNC/" target="_blank">Link to my certificate of completion</a> </p>
+				</div>
+			</div>
+
+
+			<div class="row">
+				<div class="col-12" style="text-align:center">
+					<p>Copyright Â© 2018 Patrick Touchette</p>
+				</div>
+	</body>
+
+</html>

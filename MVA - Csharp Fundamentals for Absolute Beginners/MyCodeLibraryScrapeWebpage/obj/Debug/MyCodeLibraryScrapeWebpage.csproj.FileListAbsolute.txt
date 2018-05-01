@@ -1,0 +1,2 @@
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\MyCodeLibraryScrapeWebpage\obj\Debug\MyCodeLibraryScrapeWebpage.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\MyCodeLibraryScrapeWebpage\obj\Debug\MyCodeLibraryScrapeWebpage.csproj.CoreCompileInputs.cache

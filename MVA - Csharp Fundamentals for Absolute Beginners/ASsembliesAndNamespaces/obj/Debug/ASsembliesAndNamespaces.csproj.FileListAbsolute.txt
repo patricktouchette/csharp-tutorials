@@ -1,0 +1,7 @@
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\ASsembliesAndNamespaces\obj\Debug\ASsembliesAndNamespaces.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\ASsembliesAndNamespaces\obj\Debug\ASsembliesAndNamespaces.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\ASsembliesAndNamespaces\bin\Debug\ASsembliesAndNamespaces.exe.config
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\ASsembliesAndNamespaces\bin\Debug\ASsembliesAndNamespaces.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\ASsembliesAndNamespaces\bin\Debug\ASsembliesAndNamespaces.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\ASsembliesAndNamespaces\obj\Debug\ASsembliesAndNamespaces.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\ASsembliesAndNamespaces\obj\Debug\ASsembliesAndNamespaces.pdb

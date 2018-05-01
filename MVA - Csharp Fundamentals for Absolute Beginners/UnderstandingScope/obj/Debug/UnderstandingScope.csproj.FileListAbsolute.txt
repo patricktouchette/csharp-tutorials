@@ -1,0 +1,7 @@
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\UnderstandingScope\obj\Debug\UnderstandingScope.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\UnderstandingScope\obj\Debug\UnderstandingScope.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\UnderstandingScope\bin\Debug\UnderstandingScope.exe.config
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\UnderstandingScope\bin\Debug\UnderstandingScope.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\UnderstandingScope\bin\Debug\UnderstandingScope.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\UnderstandingScope\obj\Debug\UnderstandingScope.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\UnderstandingScope\obj\Debug\UnderstandingScope.pdb
