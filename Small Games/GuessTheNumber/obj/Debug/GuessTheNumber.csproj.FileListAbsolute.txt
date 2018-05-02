@@ -1,0 +1,7 @@
+c:\users\pat\Documents\GitHub\csharp-tutorials\GuessTheNumber\bin\Debug\GuessTheNumber.exe.config
+c:\users\pat\Documents\GitHub\csharp-tutorials\GuessTheNumber\bin\Debug\GuessTheNumber.exe
+c:\users\pat\Documents\GitHub\csharp-tutorials\GuessTheNumber\bin\Debug\GuessTheNumber.pdb
+c:\users\pat\Documents\GitHub\csharp-tutorials\GuessTheNumber\obj\Debug\GuessTheNumber.csprojResolveAssemblyReference.cache
+c:\users\pat\Documents\GitHub\csharp-tutorials\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.CoreCompileInputs.cache
+c:\users\pat\Documents\GitHub\csharp-tutorials\GuessTheNumber\obj\Debug\GuessTheNumber.exe
+c:\users\pat\Documents\GitHub\csharp-tutorials\GuessTheNumber\obj\Debug\GuessTheNumber.pdb

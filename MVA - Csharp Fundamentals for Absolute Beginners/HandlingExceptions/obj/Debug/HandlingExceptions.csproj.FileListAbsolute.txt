@@ -1,0 +1,7 @@
+c:\users\pat\Documents\GitHub\csharp-tutorials\HandlingExceptions\bin\Debug\HandlingExceptions.exe.config
+c:\users\pat\Documents\GitHub\csharp-tutorials\HandlingExceptions\bin\Debug\HandlingExceptions.exe
+c:\users\pat\Documents\GitHub\csharp-tutorials\HandlingExceptions\bin\Debug\HandlingExceptions.pdb
+c:\users\pat\Documents\GitHub\csharp-tutorials\HandlingExceptions\obj\Debug\HandlingExceptions.csprojResolveAssemblyReference.cache
+c:\users\pat\Documents\GitHub\csharp-tutorials\HandlingExceptions\obj\Debug\HandlingExceptions.csproj.CoreCompileInputs.cache
+c:\users\pat\Documents\GitHub\csharp-tutorials\HandlingExceptions\obj\Debug\HandlingExceptions.exe
+c:\users\pat\Documents\GitHub\csharp-tutorials\HandlingExceptions\obj\Debug\HandlingExceptions.pdb

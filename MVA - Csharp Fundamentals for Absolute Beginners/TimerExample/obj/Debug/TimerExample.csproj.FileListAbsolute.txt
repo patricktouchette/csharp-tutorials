@@ -1,0 +1,6 @@
+c:\users\pat\Documents\GitHub\csharp-tutorials\TimerExample\bin\Debug\TimerExample.exe.config
+c:\users\pat\Documents\GitHub\csharp-tutorials\TimerExample\bin\Debug\TimerExample.exe
+c:\users\pat\Documents\GitHub\csharp-tutorials\TimerExample\bin\Debug\TimerExample.pdb
+c:\users\pat\Documents\GitHub\csharp-tutorials\TimerExample\obj\Debug\TimerExample.csproj.CoreCompileInputs.cache
+c:\users\pat\Documents\GitHub\csharp-tutorials\TimerExample\obj\Debug\TimerExample.exe
+c:\users\pat\Documents\GitHub\csharp-tutorials\TimerExample\obj\Debug\TimerExample.pdb
