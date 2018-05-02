@@ -1,0 +1,7 @@
+c:\users\pat\Documents\GitHub\csharp-tutorials\Arrays\bin\Debug\Arrays.exe.config
+c:\users\pat\Documents\GitHub\csharp-tutorials\Arrays\bin\Debug\Arrays.exe
+c:\users\pat\Documents\GitHub\csharp-tutorials\Arrays\bin\Debug\Arrays.pdb
+c:\users\pat\Documents\GitHub\csharp-tutorials\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+c:\users\pat\Documents\GitHub\csharp-tutorials\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+c:\users\pat\Documents\GitHub\csharp-tutorials\Arrays\obj\Debug\Arrays.exe
+c:\users\pat\Documents\GitHub\csharp-tutorials\Arrays\obj\Debug\Arrays.pdb

@@ -1,0 +1,7 @@
+c:\users\pat\Documents\GitHub\csharp-tutorials\SwitchStatements\bin\Debug\SwitchStatements.exe.config
+c:\users\pat\Documents\GitHub\csharp-tutorials\SwitchStatements\bin\Debug\SwitchStatements.exe
+c:\users\pat\Documents\GitHub\csharp-tutorials\SwitchStatements\bin\Debug\SwitchStatements.pdb
+c:\users\pat\Documents\GitHub\csharp-tutorials\SwitchStatements\obj\Debug\SwitchStatements.csprojResolveAssemblyReference.cache
+c:\users\pat\Documents\GitHub\csharp-tutorials\SwitchStatements\obj\Debug\SwitchStatements.csproj.CoreCompileInputs.cache
+c:\users\pat\Documents\GitHub\csharp-tutorials\SwitchStatements\obj\Debug\SwitchStatements.exe
+c:\users\pat\Documents\GitHub\csharp-tutorials\SwitchStatements\obj\Debug\SwitchStatements.pdb

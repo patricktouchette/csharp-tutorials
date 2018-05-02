@@ -1,0 +1,6 @@
+c:\users\pat\Documents\GitHub\csharp-tutorials\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+c:\users\pat\Documents\GitHub\csharp-tutorials\Classes\bin\Debug\Classes.exe.config
+c:\users\pat\Documents\GitHub\csharp-tutorials\Classes\bin\Debug\Classes.exe
+c:\users\pat\Documents\GitHub\csharp-tutorials\Classes\bin\Debug\Classes.pdb
+c:\users\pat\Documents\GitHub\csharp-tutorials\Classes\obj\Debug\Classes.exe
+c:\users\pat\Documents\GitHub\csharp-tutorials\Classes\obj\Debug\Classes.pdb

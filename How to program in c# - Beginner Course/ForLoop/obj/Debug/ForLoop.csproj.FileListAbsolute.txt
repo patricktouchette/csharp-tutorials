@@ -1,0 +1,6 @@
+c:\users\pat\Documents\GitHub\csharp-tutorials\ForLoop\bin\Debug\ForLoop.exe.config
+c:\users\pat\Documents\GitHub\csharp-tutorials\ForLoop\bin\Debug\ForLoop.exe
+c:\users\pat\Documents\GitHub\csharp-tutorials\ForLoop\bin\Debug\ForLoop.pdb
+c:\users\pat\Documents\GitHub\csharp-tutorials\ForLoop\obj\Debug\ForLoop.csproj.CoreCompileInputs.cache
+c:\users\pat\Documents\GitHub\csharp-tutorials\ForLoop\obj\Debug\ForLoop.exe
+c:\users\pat\Documents\GitHub\csharp-tutorials\ForLoop\obj\Debug\ForLoop.pdb

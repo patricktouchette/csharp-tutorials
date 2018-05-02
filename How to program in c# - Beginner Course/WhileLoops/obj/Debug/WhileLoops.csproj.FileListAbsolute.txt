@@ -1,0 +1,7 @@
+c:\users\pat\Documents\GitHub\csharp-tutorials\WhileLoops\bin\Debug\WhileLoops.exe.config
+c:\users\pat\Documents\GitHub\csharp-tutorials\WhileLoops\bin\Debug\WhileLoops.exe
+c:\users\pat\Documents\GitHub\csharp-tutorials\WhileLoops\bin\Debug\WhileLoops.pdb
+c:\users\pat\Documents\GitHub\csharp-tutorials\WhileLoops\obj\Debug\WhileLoops.csprojResolveAssemblyReference.cache
+c:\users\pat\Documents\GitHub\csharp-tutorials\WhileLoops\obj\Debug\WhileLoops.csproj.CoreCompileInputs.cache
+c:\users\pat\Documents\GitHub\csharp-tutorials\WhileLoops\obj\Debug\WhileLoops.exe
+c:\users\pat\Documents\GitHub\csharp-tutorials\WhileLoops\obj\Debug\WhileLoops.pdb
