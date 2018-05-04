@@ -1,0 +1,7 @@
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\enums\bin\Debug\enums.exe.config
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\enums\bin\Debug\enums.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\enums\bin\Debug\enums.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\enums\obj\Debug\enums.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\enums\obj\Debug\enums.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\enums\obj\Debug\enums.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\enums\obj\Debug\enums.pdb

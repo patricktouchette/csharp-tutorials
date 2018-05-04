@@ -1,0 +1,7 @@
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\Interface\bin\Debug\Interface.exe.config
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\Interface\bin\Debug\Interface.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\Interface\bin\Debug\Interface.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\Interface\obj\Debug\Interface.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\Interface\obj\Debug\Interface.pdb
