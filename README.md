@@ -1,5 +1,5 @@
 # csharp-tutorials
-repository for some c# tutorials
+repository for some c# tutorials that I am following.
 
 ### Microsoft Virtual Academy
 C# Fundamentals for Absolute Beginners

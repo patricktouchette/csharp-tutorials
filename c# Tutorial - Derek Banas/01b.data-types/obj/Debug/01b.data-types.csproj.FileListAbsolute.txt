@@ -1,0 +1,6 @@
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\01b.data-types\bin\Debug\01b.data-types.exe.config
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\01b.data-types\bin\Debug\01b.data-types.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\01b.data-types\bin\Debug\01b.data-types.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\01b.data-types\obj\Debug\01b.data-types.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\01b.data-types\obj\Debug\01b.data-types.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\01b.data-types\obj\Debug\01b.data-types.pdb
