@@ -1,0 +1,7 @@
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\03.Conditionals While Exceptions\bin\Debug\03.Conditionals While Exceptions.exe.config
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\03.Conditionals While Exceptions\bin\Debug\03.Conditionals While Exceptions.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\03.Conditionals While Exceptions\bin\Debug\03.Conditionals While Exceptions.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\03.Conditionals While Exceptions\obj\Debug\03.Conditionals While Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\03.Conditionals While Exceptions\obj\Debug\03.Conditionals While Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\03.Conditionals While Exceptions\obj\Debug\03.Conditionals While Exceptions.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\03.Conditionals While Exceptions\obj\Debug\03.Conditionals While Exceptions.pdb

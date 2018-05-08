@@ -1,0 +1,7 @@
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\02.Looping Arrays StringBuilder\obj\Debug\02.Looping Arrays StringBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\02.Looping Arrays StringBuilder\obj\Debug\02.Looping Arrays StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\02.Looping Arrays StringBuilder\bin\Debug\02.Looping Arrays StringBuilder.exe.config
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\02.Looping Arrays StringBuilder\bin\Debug\02.Looping Arrays StringBuilder.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\02.Looping Arrays StringBuilder\bin\Debug\02.Looping Arrays StringBuilder.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\02.Looping Arrays StringBuilder\obj\Debug\02.Looping Arrays StringBuilder.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\02.Looping Arrays StringBuilder\obj\Debug\02.Looping Arrays StringBuilder.pdb
