@@ -5,3 +5,10 @@ C:\Users\Pat\Documents\GitHub\csharp-tutorials\04.Method Enums\obj\Debug\04.Meth
 C:\Users\Pat\Documents\GitHub\csharp-tutorials\04.Method Enums\obj\Debug\04.Method Enums.csproj.CoreCompileInputs.cache
 C:\Users\Pat\Documents\GitHub\csharp-tutorials\04.Method Enums\obj\Debug\04.Method Enums.exe
 C:\Users\Pat\Documents\GitHub\csharp-tutorials\04.Method Enums\obj\Debug\04.Method Enums.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\04.Method Enums\obj\Debug\04.Method Enums.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\04.Method Enums\obj\Debug\04.Method Enums.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\04.Method Enums\obj\Debug\04.Method Enums.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\04.Method Enums\obj\Debug\04.Method Enums.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\04.Method Enums\bin\Debug\04.Method Enums.exe.config
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\04.Method Enums\bin\Debug\04.Method Enums.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\04.Method Enums\bin\Debug\04.Method Enums.pdb

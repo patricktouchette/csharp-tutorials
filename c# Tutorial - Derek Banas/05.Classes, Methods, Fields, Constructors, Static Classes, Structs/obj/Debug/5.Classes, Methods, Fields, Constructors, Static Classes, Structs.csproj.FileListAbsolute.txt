@@ -1,0 +1,7 @@
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\5.Classes, Methods, Fields, Constructors, Static Classes, Structs\bin\Debug\5.Classes, Methods, Fields, Constructors, Static Classes, Structs.exe.config
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\5.Classes, Methods, Fields, Constructors, Static Classes, Structs\bin\Debug\5.Classes, Methods, Fields, Constructors, Static Classes, Structs.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\5.Classes, Methods, Fields, Constructors, Static Classes, Structs\bin\Debug\5.Classes, Methods, Fields, Constructors, Static Classes, Structs.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\5.Classes, Methods, Fields, Constructors, Static Classes, Structs\obj\Debug\5.Classes, Methods, Fields, Constructors, Static Classes, Structs.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\5.Classes, Methods, Fields, Constructors, Static Classes, Structs\obj\Debug\5.Classes, Methods, Fields, Constructors, Static Classes, Structs.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\5.Classes, Methods, Fields, Constructors, Static Classes, Structs\obj\Debug\5.Classes, Methods, Fields, Constructors, Static Classes, Structs.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\5.Classes, Methods, Fields, Constructors, Static Classes, Structs\obj\Debug\5.Classes, Methods, Fields, Constructors, Static Classes, Structs.pdb
