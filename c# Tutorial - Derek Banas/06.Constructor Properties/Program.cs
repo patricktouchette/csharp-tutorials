@@ -10,6 +10,21 @@ namespace _06.Constructor_Properties
     {
         static void Main(string[] args)
         {
+            Animal cat = new Animal();
+            cat.SetName("Whiskers");  //setter
+            cat.Sound = "Meow";   //property
+
+            Console.WriteLine("The cat is named {0} and says {1}", cat.GetName(), cat.Sound);
+
+            cat.Owner = "Derek";
+
+            Console.WriteLine("{0} owner is {1}", cat.GetName(), cat.Owner);
+            Console.WriteLine("{0} shelter id is {1}", cat.GetName(), cat.idNum);
+
+            Animal fox = new Animal("Oscar", "raawrr");
+            Console.WriteLine("{0} shelter id is {1}", fox.GetName(), fox.idNum);
+
+            Console.WriteLine("# of Animals : {0}", Animal.NumOfAnimals);
         }
     }
 
@@ -35,7 +50,13 @@ namespace _06.Constructor_Properties
 
         public Animal(string name, string sound)
         {
+            SetName(name);
+            Sound = sound;
 
+            NumOfAnimals = 1;
+
+            Random rnd = new Random();
+            idNum = rnd.Next(1, 2000);
         }
 
         //setter
@@ -59,5 +80,29 @@ namespace _06.Constructor_Properties
         }
 
         //Define getters and setters through properties
+        public string Sound
+        {
+            get { return sound; }
+            set
+            {
+                if (value.Length > 10)
+                {
+                    sound = "No Sound";
+                    Console.WriteLine("Sound is too long");
+                }
+                sound = value;
+            }
+        }
+
+        public string Owner { get; set; } = "No Owner";
+
+        public static int numOfAnimals = 0;
+
+        public static int NumOfAnimals
+        {
+            get { return numOfAnimals; }
+            set { numOfAnimals += value; }
+        }
+
     }
 }

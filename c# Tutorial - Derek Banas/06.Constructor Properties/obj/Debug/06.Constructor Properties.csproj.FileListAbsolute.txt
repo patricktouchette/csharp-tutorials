@@ -1,0 +1,7 @@
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\06.Constructor Properties\obj\Debug\06.Constructor Properties.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\06.Constructor Properties\obj\Debug\06.Constructor Properties.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\06.Constructor Properties\bin\Debug\06.Constructor Properties.exe.config
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\06.Constructor Properties\bin\Debug\06.Constructor Properties.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\06.Constructor Properties\bin\Debug\06.Constructor Properties.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\06.Constructor Properties\obj\Debug\06.Constructor Properties.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\06.Constructor Properties\obj\Debug\06.Constructor Properties.pdb
