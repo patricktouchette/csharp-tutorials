@@ -1,0 +1,7 @@
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\10.Interfaces - Electronic Device\bin\Debug\10.Interfaces - Electronic Device.exe.config
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\10.Interfaces - Electronic Device\bin\Debug\10.Interfaces - Electronic Device.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\10.Interfaces - Electronic Device\bin\Debug\10.Interfaces - Electronic Device.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\10.Interfaces - Electronic Device\obj\Debug\10.Interfaces - Electronic Device.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\10.Interfaces - Electronic Device\obj\Debug\10.Interfaces - Electronic Device.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\10.Interfaces - Electronic Device\obj\Debug\10.Interfaces - Electronic Device.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\10.Interfaces - Electronic Device\obj\Debug\10.Interfaces - Electronic Device.csprojResolveAssemblyReference.cache
