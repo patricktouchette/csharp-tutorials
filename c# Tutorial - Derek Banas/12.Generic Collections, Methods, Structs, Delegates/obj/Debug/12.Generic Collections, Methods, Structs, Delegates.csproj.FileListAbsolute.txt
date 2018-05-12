@@ -1,0 +1,7 @@
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\12.Generic Collections, Methods, Structs, Delegates\bin\Debug\12.Generic Collections, Methods, Structs, Delegates.exe.config
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\12.Generic Collections, Methods, Structs, Delegates\bin\Debug\12.Generic Collections, Methods, Structs, Delegates.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\12.Generic Collections, Methods, Structs, Delegates\bin\Debug\12.Generic Collections, Methods, Structs, Delegates.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\12.Generic Collections, Methods, Structs, Delegates\obj\Debug\12.Generic Collections, Methods, Structs, Delegates.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\12.Generic Collections, Methods, Structs, Delegates\obj\Debug\12.Generic Collections, Methods, Structs, Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\12.Generic Collections, Methods, Structs, Delegates\obj\Debug\12.Generic Collections, Methods, Structs, Delegates.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\12.Generic Collections, Methods, Structs, Delegates\obj\Debug\12.Generic Collections, Methods, Structs, Delegates.pdb

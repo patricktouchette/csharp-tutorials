@@ -1,0 +1,7 @@
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\14.Operator Overloading and Enumerator\bin\Debug\14.Operator Overloading and Enumerator.exe.config
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\14.Operator Overloading and Enumerator\bin\Debug\14.Operator Overloading and Enumerator.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\14.Operator Overloading and Enumerator\bin\Debug\14.Operator Overloading and Enumerator.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\14.Operator Overloading and Enumerator\obj\Debug\14.Operator Overloading and Enumerator.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\14.Operator Overloading and Enumerator\obj\Debug\14.Operator Overloading and Enumerator.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\14.Operator Overloading and Enumerator\obj\Debug\14.Operator Overloading and Enumerator.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\14.Operator Overloading and Enumerator\obj\Debug\14.Operator Overloading and Enumerator.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.Manipulating Lists - LINQ Extension Methods", "13.Manipulating Lists - LINQ Extension Methods.csproj", "{CD7388AE-AB2A-4ABD-B5D3-63B6284A97CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD7388AE-AB2A-4ABD-B5D3-63B6284A97CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD7388AE-AB2A-4ABD-B5D3-63B6284A97CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD7388AE-AB2A-4ABD-B5D3-63B6284A97CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD7388AE-AB2A-4ABD-B5D3-63B6284A97CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AEBB68A-F5EE-41B6-8576-E26FAF6DE242}
+	EndGlobalSection
+EndGlobal

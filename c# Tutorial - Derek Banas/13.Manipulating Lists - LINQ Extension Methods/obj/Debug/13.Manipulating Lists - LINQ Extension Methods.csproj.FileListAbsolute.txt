@@ -1,0 +1,7 @@
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\13.Manipulating Lists - LINQ Extension Methods\bin\Debug\13.Manipulating Lists - LINQ Extension Methods.exe.config
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\13.Manipulating Lists - LINQ Extension Methods\bin\Debug\13.Manipulating Lists - LINQ Extension Methods.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\13.Manipulating Lists - LINQ Extension Methods\bin\Debug\13.Manipulating Lists - LINQ Extension Methods.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\13.Manipulating Lists - LINQ Extension Methods\obj\Debug\13.Manipulating Lists - LINQ Extension Methods.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\13.Manipulating Lists - LINQ Extension Methods\obj\Debug\13.Manipulating Lists - LINQ Extension Methods.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\13.Manipulating Lists - LINQ Extension Methods\obj\Debug\13.Manipulating Lists - LINQ Extension Methods.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\13.Manipulating Lists - LINQ Extension Methods\obj\Debug\13.Manipulating Lists - LINQ Extension Methods.pdb
