@@ -1,0 +1,51 @@
+﻿<Window x:Class="_19.WPF_and_XAML.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_19.WPF_and_XAML"
+        xmlns:Sys="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="283.51" Width="530.452" ResizeMode="CanResize" SizeToContent="WidthAndHeight" 
+            Topmost="False" WindowState="Normal" Icon="./Resources/paint.jpg" MouseMove="Window_MouseMove">
+
+    <Window.Resources>
+        <Sys:String x:Key="strHellowAgain">Hello Again</Sys:String>
+        
+        <Style TargetType="Button">
+            <Setter Property="Margin" Value="1"/>
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="FontFamily" Value="Center"/>
+        </Style>
+
+
+    </Window.Resources>
+
+
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="81*"/>
+            <RowDefinition Height="64*"/>
+            <RowDefinition Height="109*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="136*"/>
+            <ColumnDefinition Width="239*"/>
+            <ColumnDefinition Width="147*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Orientation="Vertical" Grid.ColumnSpan="3" Grid.RowSpan="3">
+            <TextBlock HorizontalAlignment="Center" TextWrapping="NoWrap" Text="Hello Word" 
+                       VerticalAlignment="Top" FontSize="40"/>
+            <TextBlock Text="{StaticResource strHellowAgain}" HorizontalAlignment="Center"/>
+            <Button x:Name="Button1" Height="40" Width="200" Content="Close Window" 
+                    Click="Button1_Click"/>
+            <Button x:Name="BtnOpenFile" Height="40" Width="200" Content="Open File" 
+                    Click="BtnOpenFile_Click"/>
+            <Button x:Name="BtnSaveFile" Height="40" Width="200" Content="Save File" 
+                    Click="BtnSaveFile_Click"/>
+        </StackPanel>
+        <ComboBox Grid.Column="1" HorizontalAlignment="Left" Margin="38,37,0,0" Grid.Row="2" VerticalAlignment="Top" Width="120"/>
+    </Grid>
+</Window>

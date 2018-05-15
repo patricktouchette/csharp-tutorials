@@ -1,0 +1,15 @@
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\19.WPF and XAML\bin\Debug\19.WPF and XAML.exe.config
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\19.WPF and XAML\bin\Debug\19.WPF and XAML.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\19.WPF and XAML\bin\Debug\19.WPF and XAML.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\19.WPF and XAML\obj\Debug\19.WPF and XAML.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\19.WPF and XAML\obj\Debug\MainWindow.g.cs
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\19.WPF and XAML\obj\Debug\App.g.cs
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\19.WPF and XAML\obj\Debug\19.WPF and XAML_MarkupCompile.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\19.WPF and XAML\obj\Debug\19.WPF and XAML_MarkupCompile.lref
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\19.WPF and XAML\obj\Debug\MainWindow.baml
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\19.WPF and XAML\obj\Debug\19.WPF and XAML.g.resources
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\19.WPF and XAML\obj\Debug\_19.WPF_and_XAML.Properties.Resources.resources
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\19.WPF and XAML\obj\Debug\19.WPF and XAML.csproj.GenerateResource.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\19.WPF and XAML\obj\Debug\19.WPF and XAML.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\19.WPF and XAML\obj\Debug\19.WPF and XAML.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\19.WPF and XAML\obj\Debug\19.WPF and XAML.pdb

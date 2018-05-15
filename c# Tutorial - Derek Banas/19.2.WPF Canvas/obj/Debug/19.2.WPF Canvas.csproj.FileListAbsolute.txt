@@ -1,0 +1,15 @@
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\19.2.WPF Canvas\bin\Debug\19.2.WPF Canvas.exe.config
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\19.2.WPF Canvas\bin\Debug\19.2.WPF Canvas.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\19.2.WPF Canvas\bin\Debug\19.2.WPF Canvas.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\19.2.WPF Canvas\obj\Debug\19.2.WPF Canvas.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\19.2.WPF Canvas\obj\Debug\MainWindow.g.cs
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\19.2.WPF Canvas\obj\Debug\App.g.cs
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\19.2.WPF Canvas\obj\Debug\19.2.WPF Canvas_MarkupCompile.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\19.2.WPF Canvas\obj\Debug\19.2.WPF Canvas_MarkupCompile.lref
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\19.2.WPF Canvas\obj\Debug\MainWindow.baml
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\19.2.WPF Canvas\obj\Debug\19.2.WPF Canvas.g.resources
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\19.2.WPF Canvas\obj\Debug\_19._2.WPF_Canvas.Properties.Resources.resources
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\19.2.WPF Canvas\obj\Debug\19.2.WPF Canvas.csproj.GenerateResource.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\19.2.WPF Canvas\obj\Debug\19.2.WPF Canvas.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\19.2.WPF Canvas\obj\Debug\19.2.WPF Canvas.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\19.2.WPF Canvas\obj\Debug\19.2.WPF Canvas.pdb
