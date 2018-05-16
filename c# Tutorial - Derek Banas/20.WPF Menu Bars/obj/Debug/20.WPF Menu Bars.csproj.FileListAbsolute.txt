@@ -1,0 +1,15 @@
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\20.WPF Menu Bars\bin\Debug\20.WPF Menu Bars.exe.config
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\20.WPF Menu Bars\bin\Debug\20.WPF Menu Bars.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\20.WPF Menu Bars\bin\Debug\20.WPF Menu Bars.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\20.WPF Menu Bars\obj\Debug\20.WPF Menu Bars.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\20.WPF Menu Bars\obj\Debug\MainWindow.g.cs
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\20.WPF Menu Bars\obj\Debug\App.g.cs
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\20.WPF Menu Bars\obj\Debug\20.WPF Menu Bars_MarkupCompile.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\20.WPF Menu Bars\obj\Debug\20.WPF Menu Bars_MarkupCompile.lref
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\20.WPF Menu Bars\obj\Debug\MainWindow.baml
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\20.WPF Menu Bars\obj\Debug\20.WPF Menu Bars.g.resources
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\20.WPF Menu Bars\obj\Debug\_20.WPF_Menu_Bars.Properties.Resources.resources
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\20.WPF Menu Bars\obj\Debug\20.WPF Menu Bars.csproj.GenerateResource.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\20.WPF Menu Bars\obj\Debug\20.WPF Menu Bars.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\20.WPF Menu Bars\obj\Debug\20.WPF Menu Bars.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\20.WPF Menu Bars\obj\Debug\20.WPF Menu Bars.pdb

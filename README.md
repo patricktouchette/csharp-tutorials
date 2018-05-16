@@ -14,3 +14,7 @@ https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51
 ##### Derek Banas
 c# Tutorial
 https://www.youtube.com/playlist?list=PLGLfVvz_LVvRX6xK1oi0reKci6ignjdSa
+
+### Udemy
+#### Design Patterns in C# and .NET
+https://www.udemy.com/design-patterns-csharp-dotnet/

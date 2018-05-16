@@ -7,6 +7,26 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="179*"/>
+            <ColumnDefinition Width="347*"/>
+            <ColumnDefinition Width="266*"/>
+        </Grid.ColumnDefinitions>
+        <ScrollViewer Grid.Column="2" Margin="35,30,49,239">
+            <Grid>
+                <Label Content="Label" HorizontalAlignment="Left" Margin="0,0,-17,0" VerticalAlignment="Top"/>
+                <Label Content="Label" HorizontalAlignment="Left" Margin="0,25,-17,0" VerticalAlignment="Top"/>
+                <Label Content="Label" HorizontalAlignment="Left" Margin="0,50,-17,0" VerticalAlignment="Top"/>
+                <Label Content="Label" HorizontalAlignment="Left" Margin="0,75,-17,0" VerticalAlignment="Top"/>
+                <Label Content="Label" HorizontalAlignment="Left" Margin="0,100,-17,0" VerticalAlignment="Top"/>
+                <Label Content="Label" HorizontalAlignment="Left" Margin="0,125,-17,0" VerticalAlignment="Top"/>
+            </Grid>
+        </ScrollViewer>
+        <DockPanel Grid.Column="1">
+            <Label x:Name="LabelTop" DockPanel.Dock="Top" Content="TOP"/>
+            <Label x:Name="LabelRight" DockPanel.Dock="Right" Content="Right"/>
+            <Label x:Name="LabelLeft" DockPanel.Dock="Left" Content="Left"/>
+            <Label x:Name="LabelCenter" DockPanel.Dock="Center" Content="Center"/>
+        </DockPanel>
     </Grid>
 </Window>

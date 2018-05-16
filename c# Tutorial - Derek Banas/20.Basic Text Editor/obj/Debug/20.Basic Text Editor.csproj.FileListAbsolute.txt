@@ -1,0 +1,15 @@
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\20.Basic Text Editor\bin\Debug\20.Basic Text Editor.exe.config
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\20.Basic Text Editor\bin\Debug\20.Basic Text Editor.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\20.Basic Text Editor\bin\Debug\20.Basic Text Editor.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\20.Basic Text Editor\obj\Debug\20.Basic Text Editor.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\20.Basic Text Editor\obj\Debug\MainWindow.g.cs
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\20.Basic Text Editor\obj\Debug\App.g.cs
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\20.Basic Text Editor\obj\Debug\20.Basic Text Editor_MarkupCompile.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\20.Basic Text Editor\obj\Debug\20.Basic Text Editor_MarkupCompile.lref
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\20.Basic Text Editor\obj\Debug\MainWindow.baml
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\20.Basic Text Editor\obj\Debug\20.Basic Text Editor.g.resources
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\20.Basic Text Editor\obj\Debug\_20.Basic_Text_Editor.Properties.Resources.resources
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\20.Basic Text Editor\obj\Debug\20.Basic Text Editor.csproj.GenerateResource.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\20.Basic Text Editor\obj\Debug\20.Basic Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\20.Basic Text Editor\obj\Debug\20.Basic Text Editor.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\c# Tutorial - Derek Banas\20.Basic Text Editor\obj\Debug\20.Basic Text Editor.pdb

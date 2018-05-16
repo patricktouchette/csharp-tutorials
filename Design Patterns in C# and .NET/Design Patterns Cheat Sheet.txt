@@ -1,0 +1,10 @@
+Design Patterns Cheat Sheet
+by: Patrick Touchette
+
+In this cheat sheet I will attempt to resume my own understanding of each design pattern
+as well as add in some code snippets.
+
+
+1. SOLID Design Principles
+
+Single Responsibility Principle

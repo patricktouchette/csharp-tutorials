@@ -1,0 +1,7 @@
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\Design Patterns in C# and .NET\01. SOLID Design Principles\obj\Debug\01. SOLID Design Principles.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\Design Patterns in C# and .NET\01. SOLID Design Principles\obj\Debug\01. SOLID Design Principles.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\Design Patterns in C# and .NET\01. SOLID Design Principles\bin\Debug\_01.SOLID_Design_Principles.exe.config
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\Design Patterns in C# and .NET\01. SOLID Design Principles\bin\Debug\_01.SOLID_Design_Principles.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\Design Patterns in C# and .NET\01. SOLID Design Principles\bin\Debug\_01.SOLID_Design_Principles.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\Design Patterns in C# and .NET\01. SOLID Design Principles\obj\Debug\_01.SOLID_Design_Principles.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\Design Patterns in C# and .NET\01. SOLID Design Principles\obj\Debug\_01.SOLID_Design_Principles.pdb
