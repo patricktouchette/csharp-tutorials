@@ -10,7 +10,8 @@ namespace _01.SOLID_Design_Principles
     {
         static void Main(string[] args)
         {
-            SingleResponsibilityPrinciple test = new SingleResponsibilityPrinciple();
+            //SingleResponsibilityPrinciple test = new SingleResponsibilityPrinciple();
+            OpenClosedPrinciple oc = new OpenClosedPrinciple();
         }
     }
 }
