@@ -39,6 +39,14 @@ namespace _01.SOLID_Design_Principles
                 if (p.Size == size)
                     yield return p;
         }
+
+        public static IEnumerable<Product> FilterByColor(IEnumerable<Product> products,
+            Color color)
+        {
+            foreach (var p in products)
+                if (p.Color == color)
+                    yield return p;
+        }
     }
 
     public class OpenClosedPrinciple
@@ -53,6 +61,7 @@ namespace _01.SOLID_Design_Principles
 
             var pf = new ProductFilter();
             Console.WriteLine("Green Products (old):");
+
         }
     }
 }
